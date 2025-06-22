@@ -2,7 +2,7 @@
 EyesonAI is a AI-powered accessibility tool designed to assist people with visual impairments by enabling full voice-controlled interaction with their computer. From launching applications to explaining what's on their screen, EyesonAI combines cutting-edge models with system level control to create a seamless and empowering user experience.
 
 <p align="center">
-	<img width="500" src="https://github.com/Balpreetkaur291/EyesOnAI/blob/04c8b72d6fa71e0c7acec69312b254b1a1857c12/logo.png">
+	<img width="500" src="https://github.com/Balpreetkaur291/EyesOnAI/blob/a464a98234220f9ce7c534e1246b421c2c08e090/logo.png">
 </p>
 
 
