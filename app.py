@@ -163,7 +163,7 @@ Always be helpful and explain what you're doing. If you need clarification about
         import google.generativeai as genai
         
         # Configure the API key
-        genai.configure(api_key="AIzaSyC8aZFiK66R_mmhQTy7iHE9dSh4nM7b6AM")
+        genai.configure(api_key="GEMINI_API_KEY")
         
         # Create the model
         model = genai.GenerativeModel(
