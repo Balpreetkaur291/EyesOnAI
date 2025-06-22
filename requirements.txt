@@ -1,0 +1,14 @@
+replicate
+keyboard
+PyQt5
+psutil
+pyautogui
+flask
+requests
+selenium
+sounddevice
+wavio
+pygame
+lmnt
+google-generativeai
+vapi_server_sdk
